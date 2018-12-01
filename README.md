@@ -1,4 +1,4 @@
 # Erasure-Coding-for-In-Memory-Key-Value-Store
 In-memory data storage systems have been proposed to keep primary data in memory to enable scalable, low-latency data access. Due to the high failure rate, most existing in-memory storage systems replicate data copies across storage servers. However, replication has a high storage overhead that could multiply the cost due to the higher cost compared to disk-based storage. There have been proposals to use erasure coding instead to have a better storage efficiency.   In this project, you will install and deploy some existing in-memory data storage systems Like Replication-can be performed by Redis and RAMCloud using benchmark tools YCSB. Whereas Erasure Coding- can be performed by memEC using benchmarck YCSB. As well as we calculate the storage efficiency and performance of using  these in-memory data storage systems and predict which is better in performance. 
 
-Performance calculations are done on existing in-memory data storage sytems using LINUX scripting.
+Performance calculations are done on existing in-memory data storage sytems using LINUX (Shell scripting).
